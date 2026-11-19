@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /src/
+Disallow: /scripts/
+Disallow: /docs/
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://26331.com/sitemap.xml
