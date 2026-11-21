@@ -1,11 +1,11 @@
 {
  "number": {
-  "value": "38991",
-  "factors": "3 \u00d7 41 \u00d7 317",
-  "binary": "1001100001001111",
-  "hex": "984F",
-  "words": "thirty-eight thousand nine hundred ninety-one",
-  "date": "2026-11-20"
+  "value": "41624",
+  "factors": "2 \u00d7 2 \u00d7 2 \u00d7 11 \u00d7 11 \u00d7 43",
+  "binary": "1010001010011000",
+  "hex": "A298",
+  "words": "forty-one thousand six hundred twenty-four",
+  "date": "2026-11-21"
  },
  "fx": {
   "base": "USD",
@@ -179,5 +179,5 @@
    "ZWL": 26.5698
   }
  },
- "generated": "2026-11-20T11:47:26Z"
+ "generated": "2026-11-21T11:13:36Z"
 }
